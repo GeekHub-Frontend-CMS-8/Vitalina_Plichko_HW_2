@@ -1,0 +1,18 @@
+html{
+	padding:100px;
+	font-size:24px;
+}
+
+.title {
+	text-align:center;
+}
+
+.right{
+	text-align:right;
+}
+
+.image{
+	float:left;
+	width: 400px;
+	height:300px;
+}
