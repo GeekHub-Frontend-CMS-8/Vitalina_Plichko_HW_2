@@ -1,0 +1,11 @@
+html{
+	padding: 8px;
+}
+
+table{
+	margin:10px  auto;
+}
+
+.collapse{
+	border-collapse:collapse;
+}
